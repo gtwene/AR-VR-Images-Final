@@ -1,0 +1,23 @@
+{
+  "name": "ar-vr-images-final",
+  "version": "1.0.0",
+  "description": "project in electronjs and threejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtwene/AR-VR-Images-Final.git"
+  },
+  "author": "Godfrey Kwame Twene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtwene/AR-VR-Images-Final/issues"
+  },
+  "homepage": "https://github.com/gtwene/AR-VR-Images-Final#readme",
+  "devDependencies": {
+    "electron": "^15.1.1"
+  }
+}
